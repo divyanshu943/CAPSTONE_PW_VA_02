@@ -6,5 +6,7 @@ Divyanshu Sharma PES1UG20CS806,
 Arbaz Khan PES1UG20CS832
 
 Requirements:
-
-
+1)Python libraries
+2)Raspberry pi
+3)Relay module
+4)Some jumper wires
