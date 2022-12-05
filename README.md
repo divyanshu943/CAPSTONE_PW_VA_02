@@ -10,3 +10,5 @@ Requirements:
 2)Raspberry pi
 3)Relay module
 4)Some jumper wires
+
+Circuit can be made from the given circuit(1).png file
